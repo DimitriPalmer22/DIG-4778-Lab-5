@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: -1546095657, guid: b8255953c4a236746b94e221678f9059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToAvoid: {fileID: 7266999903901696007, guid: 7adca49eb0ea69a48be922ea18e40c29, type: 3}
+  objectToAvoid: {fileID: 0}
   drawGizmos: 1
   detectionRange: 7.5
   speed: 10
